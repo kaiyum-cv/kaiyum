@@ -1,0 +1,45 @@
+*{margin:0px;padding:0px;}
+body{background:EEE;font-family: 'Roboto', sans-serif;}
+.container{width:1000px;background:#E4F9F5;margin: 0 auto;padding:20px;}
+.profile-image {
+	width: 100px;
+	height: 100px;
+	border: 3px solid white;
+	border-radius: 50%;
+	float: left;
+}
+.header-bio{float:left;padding:12px;}
+h1, h2, h3, h4, h5, h6 {
+	color: #11999e;
+}
+.header-contact{float:right;padding:30px;}
+.header-contact a{text-decoration:none;color:teal;font-weight:bold;}
+.header-contact a:hover{text-decoration:underline;color:tomato;}
+
+.div-clear{clear:both;}
+hr{border: solid black 3px;width:100%;margin:20px auto;border-bottom:none;}
+.Biography {
+	margin: 10px 0px 10px 38%;
+	font-size: 25px;
+}
+.left{float:left;}
+.right {
+	float: right;
+	margin-right: 350px;
+}
+.literacy {
+	padding: 10px;
+}
+ul li ul li {
+	float: left;
+	margin-left: 101px;
+}
+.heardware{float:left;}
+.Secondary p {
+	margin-right: 50px;
+}
+.shimul p {margin-right: -234px;}
+.Application p{margin-right: 4px;}
+.Graphics p{margin-right: -14px;}
+.Web p{margin-right: 45px;}
+.Hardware p{margin-right: -173px;}
